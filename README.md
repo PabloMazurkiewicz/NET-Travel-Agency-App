@@ -1,4 +1,4 @@
-# Travel-Agency-Web-App
+# NET-Travel-Agency-App
 
 ## App Overview
 * Web application of a travel agency, mainly for customer usage. 
@@ -10,12 +10,12 @@
 <br>
 
 ## Twin Product - Data Management App
-[**Travel Agency Desktop App**](https://github.com/hdmdhr/Travel-Agency-Desktop-App)
+[**Travel Agency Desktop App**](https://github.com/PabloMazurkiewicz/NET-Travel-Agency-App.git)
 
 ## Requirements to run
 To test the app, please install Microsoft Visual Studio 2017, SQL Server, and add database by running sql script under repository root directory.
 ```
-Travel-Agency-Web-App\travelexperts-mssql.sql
+NET-Travel-Agency-App\travelexperts-mssql.sql
 ```
 
 ## Functions
@@ -41,8 +41,3 @@ After user logged in, they can view their booking history and edit profile.
 * Database - *SQL Server*
 * Language - *C#*
 * Frameworks - *ASP.NET Core MVC, EntityFramework*
-
-## Author
-* **DongMing Hu** - [hdmdhr](https://github.com/hdmdhr)
-* **Louise Acosta** - [louiseanacosta](https://github.com/louiseanacosta)
-* **Ibraheem** - [kabaltech](https://github.com/kabaltech)
